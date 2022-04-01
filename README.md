@@ -29,4 +29,8 @@ And to execute your Dynamo Charlotte program run the Dynamo Charlotte Compiler i
 python -m dcc HelloWorld.dc
 ```
 
-**Make sure your .dc file does not have spaces in between its name.**
+- **Make sure your .dc file does not have spaces in between its name.**
+
+- **Check out more examples at the 'Code Examples' directory in this repository.**
+
+
